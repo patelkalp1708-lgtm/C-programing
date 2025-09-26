@@ -1,3 +1,7 @@
+
+/*
+Write a program to accept a number and a sum of digits from the user. Reverse the number and then extract digits from the reversed number until the sum of the extracted digits is equal to the sum entered by the user. Display the extracted digits as a number.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
